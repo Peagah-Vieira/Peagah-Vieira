@@ -9,8 +9,6 @@
   <img align="center" alt="Peagah-Js" height="30" width="40" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Peagah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Peagah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Peagah-pic" height="150" style="border-radius:50px;" src="https://img.freepik.com/vetores-gratis/astronauta-bonito-montando-foguete-e-acenando-a-mao-dos-desenhos-animados-icone-ilustracao-conceito-de-icone-de-tecnologia-cientifica_138676-2130.jpg?w=826&t=st=1662652354~exp=1662652954~hmac=9047373fb91f90d143eaccb7f0bf7ae93b204194e444d16ba11932fe7c777c82width=676&height=676">
-</div>
   
   ##
  
