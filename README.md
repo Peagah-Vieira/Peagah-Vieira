@@ -12,6 +12,7 @@
   <img align="center" alt="Peagah-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Peagah-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Peagah-BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Peagah-Docker" src="https://img.shields.io/badge/Docker-1992B6?style=for-the-badge&logo=docker&logoColor=white">
  </div>
  
  ##
