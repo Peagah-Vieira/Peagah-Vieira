@@ -3,7 +3,6 @@
 ### About me 👨‍💻
 
 - I am 19 years old, fascinated by technology since i was kid.
-- At the moment I'm focused on learning React + NodeJS.
 
 ### Languages and tools 🧰
 
