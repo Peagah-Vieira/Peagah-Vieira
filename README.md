@@ -14,7 +14,6 @@
   <img align="center" alt="Peagah-BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Peagah-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Peagah-Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img align="center" alt="Peagah-Docker" src="https://img.shields.io/badge/Docker-1992B6?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" alt="Peagah-SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  </div>
  
