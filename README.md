@@ -2,7 +2,7 @@
 
 ### Sobre mim 👨‍💻
 
-- Tenho 19 anos, curso T.I e sou apaixonado por tecnologia desde pesqueno.
+- Tenho 19 anos, curso T.I e sou apaixonado por tecnologia desde pequeno.
 - Nos últimos meses estudei PHP orientado a objeto, agora estou utilizando framework Laravel.
 
 ### Linguagens e Ferramentas 🧰
