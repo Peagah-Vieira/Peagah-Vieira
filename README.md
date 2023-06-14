@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E7820D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Peagah+Vieira;I'm+19+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=peagah-vieira&bg_color=0d1117&color=ffffff&line=e7820d&point=e55315&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E7820D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Peagah+Vieira;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
