@@ -1,18 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E7820D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Peagah+Vieira;I'm+20+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=397FFBFF&vCenter=true&repeat=false&width=435&lines=Languages+%E2%80%8B%E2%80%8B%7C+Frameworks+%7C+Softwares)](https://git.io/typing-svg)
 
- ### Main skills:
-![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp; 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,py,django,tailwind,bootstrap,git)](https://skillicons.dev)
 
- ### Currently Studying:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=397FFBFF&vCenter=true&repeat=false&width=435&lines=Currently+Studying)](https://git.io/typing-svg)
 
- ### Social networks:
-<a href="https://www.instagram.com/pea_gah/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:peagahvieira2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-henrique-vieira-073b62236" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![My Skills](https://skillicons.dev/icons?i=selenium,postgres)](https://skillicons.dev)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=397FFBFF&vCenter=true&repeat=false&width=435&lines=Social+Networks)](https://git.io/typing-svg)
+
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pea_gah/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-henrique-vieira-073b62236)
