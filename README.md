@@ -30,13 +30,13 @@
 <h2 align="center">🔥 Languages | Frameworks | Tools 🔥</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,py,django,tailwind,bootstrap,git&perline=5" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,py,django,tailwind,bootstrap,selenium,git&perline=5" /><br>
   </a>
 </p>
 <h3 align="center">Currently Studying</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,selenium,postgres"/>
+    <img src="https://skillicons.dev/icons?i=docker,postman,postgres"/>
   </a>
 </p>
 <hr>
