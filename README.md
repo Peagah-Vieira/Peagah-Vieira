@@ -39,12 +39,14 @@
     <img src="https://skillicons.dev/icons?i=docker,postman,postgres"/>
   </a>
 </p>
-<hr>
+<!-- <hr> -->
 
-<!-- Snake Game -->
+
+<!-- Snake Game 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
   
   ![Snake animation](https://github.com/Peagah-Vieira/Peagah-Vieira/blob/output/github-contribution-grid-snake.svg)
 </div>
+-->
