@@ -34,13 +34,13 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,py,django,tailwind,bootstrap,selenium,postman,mysql,postgres,git&perline=5" /><br>
+    <img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,php,laravel,bootstrap,tailwind,postman,selenium,html,css,js&perline=5" /><br>
   </a>
 </p>
 
 <h2 align="center">🤖 Currently Studying 🤖</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=mongodb"/>
   </a>
 </p>
