@@ -34,13 +34,6 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,postgres,docker,mysql,php,laravel,bootstrap,tailwind,postman,selenium,html,css,js&perline=5" /><br>
-  </a>
-</p>
-
-<h2 align="center">🤖 Currently Studying 🤖</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb"/>
+    <img src="https://skillicons.dev/icons?i=py,django,postgres,mongodb,docker,mysql,php,laravel,bootstrap,tailwind,postman,selenium,html,css,js&perline=5" /><br>
   </a>
 </p>
