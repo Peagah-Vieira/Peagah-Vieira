@@ -6,7 +6,6 @@
 </h1>
 
 <!-- Introduction -->
-<br>
 <p align="center">
   Hi, I'm Peagah Vieira, Coder 🤖 , Learner 👨‍💻 &  Gamer 🎮 from Brazil
   <br>
@@ -34,6 +33,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,postgres,mongodb,docker,mysql,php,laravel,bootstrap,tailwind,postman,selenium,html,css,js&perline=5" /><br>
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,typescript,postgres,mongodb,docker,tailwind,py,django,postman,selenium&perline=5" /><br>
   </a>
 </p>
+
+<!-- Languages -->
+<h2 align="center">⭐ Stats ⭐</h2>
+<div align="center"> 
+  <a href="https://github.com/Peagah-Vieira" title="Perfil do Peagah">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peagah-Vieira&theme=dracula&show_icons=true" />
+  </a>
+</div>
