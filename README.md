@@ -4,7 +4,7 @@
 Foco em sistemas escaláveis, segurança e impacto de negócio.
 
 - 💳 **Gateway de Pagamento (produção)**: concepção → implementação → deploy → monitoração  
-  Já processou **+R$200.000 em um único mês**, **zero falhas registradas**.  
+  Já processou **+R$200.000 em um único mês.
   **Live**: https://62pay.com.br/
 
 - 🧭 Atuação **full-cycle**: conversa com clientes, requisitos, arquitetura, desenvolvimento, deploy, observabilidade.
